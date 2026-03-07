@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+*.coverage
+coverage.json
+.pytest_cache/
+
+# Logs
+*.log
+pylint_report.txt
+pylint_detailed.txt
+pylint_project.txt
+
+# Streamlit
+.streamlit/
+
+# Artifacts
+artifacts/
+coverage_report/
+report.html
+
+# OS
+.DS_Store
+Thumbs.db

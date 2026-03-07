@@ -1,0 +1,7 @@
+riscv-reg-block
+pytest-cov
+streamlit
+plotly
+networkx
+pylint
+streamlit_autorefresh

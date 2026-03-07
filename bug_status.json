@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "total_bugs": 4,
+    "found_bugs": 4,
+    "found_count": 4,
+    "total_violations": 77,
+    "bugs_found": [
+      {
+        "found": true,
+        "count": 6,
+        "details": [],
+        "bug": 
