@@ -5,7 +5,7 @@ cat > README.md << 'EOF'
 
 | Метрика | Цель | Текущий | Команда |
 |---------|------|---------|---------|
-| pytest coverage | ≥94% | 25% (работаем!) | pytest --cov |
+| pytest coverage | ≥94% | 80% (работаем!) | pytest --cov |
 | pylint | ≥8.0/10 | 7.5/10 | pylint *.py tests/ |
 | Найденные баги | ≥3 | 0/3 | Авто в тестах |
 | Dashboard | Live demo | Да | streamlit run dashboard.py |
